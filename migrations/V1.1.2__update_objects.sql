@@ -1,1 +1,1 @@
-ALTER TABLE database_dev.table_1 ADD COLUMN age number;
+ALTER TABLE database_dev.table_1 ADD COLUMN agee number;
